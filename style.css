@@ -1,4 +1,8 @@
 .m-bottom {
     margin-bottom: 235px !important;
+}
 
+.See-More-Position {
+    position: absolute !important;
+    left: 43% !important;
 }
