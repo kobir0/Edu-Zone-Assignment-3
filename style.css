@@ -3,6 +3,6 @@
 }
 
 .See-More-Position {
-    position: absolute !important;
+    position: relative !important;
     left: 43% !important;
 }
