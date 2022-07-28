@@ -1,3 +1,7 @@
 .m-bottom {
     margin-bottom: 235px !important;
 }
+
+.Image-brightness {
+    filter: brightness(50%);
+}
